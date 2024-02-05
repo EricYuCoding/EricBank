@@ -4,45 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c304b7b6-79c0-4489-852d-332f72132c61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springsecuritybasic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/EricBankApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/config/EricBankUsernamePwdAuthenticationProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/config/ProjectSecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/config/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/controller/AccountController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/controller/BalanceController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/controller/CardsController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/controller/ContactController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/controller/LoansController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/controller/LoginController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/controller/NoticesController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/filter/CsrfCookieFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/model/AccountTransactions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/model/Accounts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/model/Cards.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/model/Contact.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/model/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/model/Loans.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/model/Notice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/repository/AccountTransactionsRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/repository/AccountsRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/repository/CardsRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/repository/ContactRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/repository/CustomerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/repository/LoanRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/springsecuritybasic/repository/NoticeRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/query.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/eazybytes/springsecuritybasic/EricBankApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="c304b7b6-79c0-4489-852d-332f72132c61" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/self_learning/springboot2/udemy/spring_security/springsecuritybasic/springsecuritybasic/backend_app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706592852213</updated>
-      <workItem from="1706592852226" duration="689000" />
+      <workItem from="1706592852226" duration="1125000" />
     </task>
     <servers />
   </component>
