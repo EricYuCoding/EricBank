@@ -23,10 +23,10 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2bf4YKpJcUebRvic4YPyr4EH6n7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/self_learning/springboot2/udemy/spring_security/springsecuritybasic/springsecuritybasic/backend_app",
+    "last_opened_file_path": "D:/self_learning/springboot2/ericbank/EricBank",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706592852213</updated>
       <workItem from="1706592852226" duration="1125000" />
+      <workItem from="1726204186278" duration="591000" />
     </task>
     <servers />
   </component>
